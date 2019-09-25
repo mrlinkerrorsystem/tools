@@ -12,7 +12,7 @@ tools milik THCA
 # $ git clone https://github.com/mrlinkerrorsystem/tools/
 # $ cd tools
 # $ ls
-# $ sh Toolshack.sh
+# $ sh Toolshack2.sh
 
 # tinggal tunggu doang penginstallan toolsnya
 
