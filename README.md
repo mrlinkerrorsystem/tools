@@ -14,6 +14,9 @@ tools milik THCA
 # $ ls
 # $ sh Toolshack2.sh
 
+# Note Idnya Mrlink
+# Pwnya ganteng
+
 # tinggal tunggu doang penginstallan toolsnya
 
 # see you iang noob stah ^_^
